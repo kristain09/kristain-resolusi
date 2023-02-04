@@ -7,3 +7,4 @@ WPU Resolusi
 - kolaborasi dengan banyak teman-teman
 - rendah hati
 - terus berkembang menjadi yang terbaik
+- menambahkan framework java
